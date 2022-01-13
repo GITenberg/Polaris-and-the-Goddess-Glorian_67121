@@ -1,0 +1,27 @@
+_repo: Polaris-and-the-Goddess-Glorian_67121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stilson, Charles B. (Charles Billings)
+    birthdate: 1880
+    deathdate: 1932
+    gutenberg_agent_id: '37661'
+    url: http://www.gutenberg.org/2009/agents/37661
+description: ''
+gutenberg_issued: '2022-01-07'
+identifiers:
+  gutenberg: '67121'
+language: en
+pgterms:marc905: 20211021064116stilson
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :New Publications, Inc.,1917,copyright 1950.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Polaris and the Goddess Glorian
+url: http://www.gutenberg.org/ebooks/67121
